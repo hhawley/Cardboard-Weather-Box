@@ -1,0 +1,5 @@
+build
+dependencies
+ipcore_dir
+*.sublime*
+Makefile
